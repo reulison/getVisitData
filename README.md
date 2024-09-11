@@ -76,9 +76,9 @@ Note que o valor de cada chave precisa ser uma lista.
 
 Agora, chamar `visitData.get()` retornará um objeto como:
 
-```json
+{
   'medium': 'cpc',
   'source: 'google',
-  'campaign: 'My campaign',
+  'campaign: 'Minha campanha',
   'campaign_id': '1241234'
-```
+}
